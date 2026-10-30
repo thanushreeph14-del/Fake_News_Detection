@@ -258,9 +258,9 @@ http://127.0.0.1:5000/
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author/Contributors
 
-**Vinutha Hemanth**  
+"Vinutha" and "Thanushree PH"
 - Repository: [Fake_News_Detection GitHub](https://github.com/vinuthahemanth7620-ux/Fake_News_Detection)
 
 ---
